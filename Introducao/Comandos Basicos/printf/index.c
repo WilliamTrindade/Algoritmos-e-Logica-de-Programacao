@@ -4,5 +4,4 @@
 main(){
 	//mostra mensagens na tela
 	printf("Estamos criando um programa de computador");
-	system("pause");
 }
