@@ -11,6 +11,7 @@ main(){
 			printf("Feminino \n");
 			break;
 		}
+		case 3://gambiarra
 		case 2:{
 			printf("Masculino \n");
 			break;
