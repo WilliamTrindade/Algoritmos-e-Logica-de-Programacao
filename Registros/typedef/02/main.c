@@ -1,3 +1,4 @@
+//TYPEDEF NA STRUCT
 #include<stdio.h>
 
 struct estoque{
