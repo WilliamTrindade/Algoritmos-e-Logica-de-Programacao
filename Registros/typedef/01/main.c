@@ -1,3 +1,4 @@
+//TYPEDEF SEM STRUCT PARA ENTENDER MELHOR
 #include<stdio.h>
 
 typedef int inteiro;
