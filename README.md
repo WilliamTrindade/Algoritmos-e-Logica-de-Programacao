@@ -1,1 +1,1 @@
-# Curso-C
+## csi-algorithms-and-programming-logic
